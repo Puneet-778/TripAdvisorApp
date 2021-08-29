@@ -1,10 +1,10 @@
-### Trip Advisor App
-# 1) Used Google Maps API and Google Places API to fetch data of places,\
-hotels and restaurants in the map and displayed data on UI.\
-# 2) Implemented data filtering based on type and rating of places.\
-# 3) Rendered hotels, restaurants and places on map and customised\
-   google map style.\
-# 4) Used google AutoComplete to implement search\
+# Trip Advisor App
+### 1) Used Google Maps API and Google Places API to fetch data of places,\
+###    hotels and restaurants in the map and displayed data on UI.\
+### 2) Implemented data filtering based on type and rating of places.\
+### 3) Rendered hotels, restaurants and places on map and customised\
+###    google map style.\
+### 4) Used google AutoComplete to implement search\
 
 
 ![Annotation 2021-08-15 192741](https://user-images.githubusercontent.com/63799563/129481031-546e70ea-5832-44bf-9bb3-d59ea7ccbb22.png)
